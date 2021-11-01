@@ -17,40 +17,4 @@ def calculate_pi(n):
         num_point_total += 1
     return 4*num_point_circle/num_point_total
     
-
-
-# In[ ]:
-
-
 calculate_pi(10000000000)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
